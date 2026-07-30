@@ -30,13 +30,13 @@ margin: 100px;
 
 p, li, ul, i {
   
-  color: #e9efec;
-	line-height: 100%;
-	text-shadow: 3px 3px 5px #211e20;  
-  font-family: 'IBM Plex Sans';
+color: #e9efec;
+line-height: 100%;
+text-shadow: 3px 3px 5px #211e20;  
+font-family: 'IBM Plex Sans';
 }
 
- h1, h2, h3, h4, h5, .nav, hr {
+h1, h2, h3, h4, h5, .nav, hr {
    
   color: #e9efec;
   text-shadow: 2px 2px 5px #211e20;  
@@ -51,6 +51,5 @@ a, a:link, a:visited, a:hover, a:active {
 }
 
  .main {
-   
-     padding: 15px;
+   padding: 15px;
 }
