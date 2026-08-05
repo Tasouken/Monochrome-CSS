@@ -4,7 +4,7 @@ body {
   background: url('/bg1.gif');
 }
 
-body, img, .shr {
+body, img {
 	image-rendering: optimizeSpeed;
 	-ms-interpolation-mode: nearest-neighbor;
 	-moz-image-rendering: crisp-edges;
